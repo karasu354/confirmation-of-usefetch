@@ -1,0 +1,16 @@
+{
+  "name": "confirmation-of-usefetch",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "cypress": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^12.10.0",
+    "nuxt": "3.6.2"
+  },
+  "overrides": {
+    "vue": "^3.3.0"
+  }
+}
